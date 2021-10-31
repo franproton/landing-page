@@ -96,6 +96,82 @@ body {
 
 
 /* --- SECOND SECTION --- */
+.two {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    padding: 70px;
+}
+
+.two h3 {
+    font-size: 36px;
+    font-weight: 700;
+    color: #1f2937;
+}
+
+.cards {
+    display: flex;
+    gap: 50px;
+}
+
+.cards div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cards div img {
+    width: 100px;
+    height: auto;
+}
+
+.cards div p {
+    width: 200px;
+    text-align: center;
+    font-size: 18px;
+    color: #1f2937;
+}
+
+/* --- THIRD SECTION --- */
+.three {
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+
+}
+
+.quote {
+    width: 900px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 70px;
+}
+
+.quote p {
+    
+    flex: 0 1 auto;
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+    font-weight: 100;
+}
+
+.quote p span {
+    font-size: 7px;
+}
+
+.quote h6 {
+    align-self: flex-end;
+
+    font-size: medium;
+    color: #1f2937;
+    font-weight: 600;
+    margin: 0;
+}
 
 
 
