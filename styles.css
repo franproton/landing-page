@@ -6,6 +6,9 @@ body {
     flex-direction: column;
 }
 
+
+
+/* --- HEADER --- */
 .header {
     display: flex;
     justify-content: space-between;
@@ -36,10 +39,68 @@ body {
 }
 
 
+
+/* --- CONTENT --- */
 .content {
     flex-grow: 1;
 }
 
+/* --- FIRST SECTION --- */
+.one {
+    height: 300px;
+    padding: 70px;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+
+    flex: 1 1 auto;
+
+    background-color: #1f2937;
+
+}
+
+.intro {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    flex: 0 1 auto;
+}
+
+.intro h2 {
+    margin: 0;
+    font-size: 48px;
+    font-weight: 600;
+    color: #f9faf8;
+}
+
+.intro p {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.intro button {
+    width: 100px;
+    padding: 5px;
+    border: 0;
+    border-radius: 3px;
+    cursor: pointer;
+    background-color: #3882f6;
+    color: #f9faf8;
+    font-weight: 600;
+}
+
+.one img {
+    width: 500px;
+    height: auto;
+}
+
+
+/* --- SECOND SECTION --- */
+
+
+
+
+/* --- FOOTER --- */
 .footer {
     display: flex;
     justify-content: center;
