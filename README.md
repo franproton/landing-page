@@ -2,27 +2,22 @@
 Practice project
 
 # Credits
-Images
-<a href="https://www.pexels.com/photo/multiethnic-businesswomen-checking-information-in-documents-6457521/">Photo by Alexander Suhorucov from Pexels</a>
 
+#### Photography 
 
+Photo at the top by <a href="https://www.pexels.com/photo/multiethnic-businesswomen-checking-information-in-documents-6457521/">Alexander Suhorucov from Pexels</a>
 
-Icons
+#### Icon Design
 
-Illuminati
-Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a
+Illuminati made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a
                             href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
 
+World Domination made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a
+                            href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
 
-World Domination
-<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a
-                            href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+Cult made by <a href="https://www.flaticon.com/authors/monkik" title="monkik">monkik</a> from
+                        <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
 
-Cult
-<div>Icons made by <a href="https://www.flaticon.com/authors/monkik" title="monkik">monkik</a> from
-                        <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
-
-Shady Deal
-<div>Icons made by <a href="https://www.flaticon.com/authors/monkik" title="monkik">monkik</a> from
-                        <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+Shady Deal made by <a href="https://www.flaticon.com/authors/monkik" title="monkik">monkik</a> from
+                        <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
                     
