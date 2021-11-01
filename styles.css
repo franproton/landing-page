@@ -167,14 +167,61 @@ body {
 .quote h6 {
     align-self: flex-end;
 
-    font-size: medium;
+    font-size: 18px;
     color: #1f2937;
     font-weight: 600;
     margin: 0;
 }
 
 
+/* --- FOUR SECTION --- */
+.four {
+    padding: 100px;
+    display: flex;
+    justify-content: center;
 
+}
+
+.four .blue {
+    padding: 40px;
+    padding-left: 12vw;
+    padding-right: 12vw;
+    display: flex;
+    align-items: center;
+    gap: 7vw;
+
+    background-color: #3882f6;
+    border-radius: 5px;
+}
+
+.blue .text {
+    flex: 1;
+
+    color: #f9faf8;
+}
+
+.blue .text h6 {
+    margin: 0;
+
+    font-size: 18px;
+}
+
+.blue .text p {
+    margin: 0;
+
+    font-size: 18px;
+}
+
+.blue button {
+    width: 140px;
+    padding: 5px;
+    border: 2px solid #f9faf8;
+    background-color: transparent;
+    border-radius: 3px;
+    cursor: pointer;
+    color: #f9faf8;
+    font-weight: 600;
+}
 
 /* --- FOOTER --- */
 .footer {
