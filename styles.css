@@ -225,7 +225,12 @@ body {
 
 /* --- FOOTER --- */
 .footer {
+    padding: 30px;
     display: flex;
     justify-content: center;
     align-items: center;
+
+    color: #ccced1;
+    background-color: #1f2937;
+
 }
